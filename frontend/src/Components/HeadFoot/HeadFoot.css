@@ -1,0 +1,60 @@
+/* nav bg color */
+nav {
+  background-color: #3B6C70;
+
+  position: fixed;
+
+}
+
+/* nav item characters */
+.nav-link {
+  color: aliceblue;
+  font-weight: bold;
+  font-size: 17px;
+
+
+}
+
+/* nav item */
+.nav-item {
+  margin-right: 20px;
+}
+
+
+/* navbar item cursor move color */
+.nav-link:hover {
+  color: lightblue !important;
+}
+
+/* nav push to right */
+.ml-auto {
+  margin-left: auto !important;
+}
+
+
+/* Navbar ends here */ 
+
+
+/* footer bg*/
+
+.container-2 {
+  background-color: #3B6C70;
+  width: 100%;
+  height:300px
+
+
+}
+
+/* footer content text */
+.footertextcontent {
+  color: white;
+  font-size: small;
+  border: 5 px solid rgb(20, 20, 19);
+}
+.container-14{
+  height:170px;
+ 
+}
+
+
+/* footer bg*/

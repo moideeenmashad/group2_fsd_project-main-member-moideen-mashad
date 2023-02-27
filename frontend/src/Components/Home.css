@@ -1,0 +1,138 @@
+/* body */
+#homeheading{
+    font-size: larger;
+    font-weight: bolder;
+    color: #3B6C70;
+  }
+  
+  /* body content text */
+  #bodyheadcontent{
+    font-size:small;
+  }
+
+
+  /* body */
+#homeheading {
+  font-size: larger;
+  font-weight: bolder;
+  color: #3B6C70;
+}
+
+/* body content text */
+#bodyheadcontent {
+  font-size: small;
+}
+
+/* get in touch */
+
+.container-3 {
+  background-color: #cde3e5;
+  height: 450px;
+  width: 100%;
+
+}
+
+.form-label {
+  color: #3B6C70;
+  font-size: small;
+  font-weight: bold;
+
+}
+
+.form-control {
+
+
+  column-rule-style: groove;
+  border-color: #3B6C70;
+  box-shadow: #3B6C70;
+
+}
+
+.form-control::placeholder {
+  color: grey;
+  opacity: 30%;
+  font-size: smaller;
+}
+
+.btn {
+  /* background-color: #3B6C70; */
+  background-color: #3B6C70;
+  color: white;
+  
+
+}
+
+.btn:hover {
+  background-color: lightblue;
+  color: whitesmoke;
+}
+
+
+
+/* company logos */
+.container-4 {
+  background-color: white;
+  /* border: 2px solid red; */
+  width: 100%;
+}
+
+.ourclients{
+  color: #3B6C70;
+  /* border: 2px red solid; */
+  
+  
+}
+
+.getintouch{
+  color: #3B6C70;
+}
+
+
+/* card */
+
+.question{
+  color: #ff4d1d;
+}
+.connectictak{
+  color: #0081a0;
+}
+
+.carddiscription{
+  color: white;
+}
+
+
+
+
+/* container 6 */
+.container-fluid-6 {
+  background-color: #AEC3C5;
+  height: 900px;
+  width: 100%;
+  background-image: url("../../public/assets/path\ image.jpg"); 
+  background-size: cover;
+ 
+ 
+
+}
+
+.container-11{
+  background-color: #AEC3C5; 
+  height: 200px;
+ 
+  
+  
+ 
+}
+
+.pathtitle{
+  color: white;
+  font-weight: bolder;
+  border: 1px solid #AEC3C5;
+  
+  
+  
+  }
+center{
+  margin-top: 70px;
+}

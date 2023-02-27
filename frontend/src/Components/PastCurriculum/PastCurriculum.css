@@ -1,0 +1,51 @@
+/* Styles for the Past Curriculum Component */
+
+.clm {
+    margin: 0 auto;
+    max-width: 800px;
+  }
+  
+  .content {
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+  }
+  
+  .clmHeader {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .clmHeader h2 {
+    color: #07441f;
+    font-size: 40px;
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  button {
+    background-color: #0077cc;
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+    padding: 10px 20px;
+  }
+  
+  button:hover {
+    background-color: #005fa3;
+  }
